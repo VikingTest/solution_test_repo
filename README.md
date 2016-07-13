@@ -14,7 +14,7 @@ get user action (flag or reveal)
 get user coordinate
 
 safe, dangerous: 1-8, mine
-
+aoeuaoeuaoeuaoeuaoeuaoeuaoeuaoeuaoeuaoeuaoeu
 ## Renderer
   loop
     case key
